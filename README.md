@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello all you bots and bodies 👋
+- 🔭 I’m currently working on the Toast SEAR team - Security Engineering, Architecture, and Research
+- 🌱 I’m currently learning micropython for sensors and robotics
+- 💬 Ask me about SecEng, anti-abuse operations, microcontrollers 
+- 😄 Pronouns: he/him
 
 <!--
 **crushallhumans/crushallhumans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
